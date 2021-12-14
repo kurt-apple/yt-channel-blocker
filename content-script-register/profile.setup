@@ -1,0 +1,3 @@
+web-ext run --browser-console --keep-profile-changes --firefox-profile=your-custom-profile
+web-ext run --browser-console --profile-keep-if-missing --keep-profile-changes
+profile name: webextprofile
